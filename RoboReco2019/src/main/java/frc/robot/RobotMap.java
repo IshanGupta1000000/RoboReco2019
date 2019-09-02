@@ -15,12 +15,12 @@ package frc.robot;
  */
 public class RobotMap {
 
-    public static final int motorLeft1ID = 0;
-    public static final int motorLeft2ID = 1;
+    public static final int motorLeft1ID = 6;
+    public static final int motorLeft2ID = 4;
     public static final int motorLeft3ID = 2;
-    public static final int motorRight1ID = 3;
-    public static final int motorRight2ID = 4;
-    public static final int motorRight3ID = 5;
+    public static final int motorRight1ID = 7;
+    public static final int motorRight2ID = 5;
+    public static final int motorRight3ID = 3;
 
     public static final int DriverControllerID = 0;
     public static final int LeftStickYID = 1;
