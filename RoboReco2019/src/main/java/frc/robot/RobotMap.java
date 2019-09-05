@@ -24,7 +24,7 @@ public class RobotMap {
 
     public static final int DriverControllerID = 0;
     public static final int LeftStickYID = 1;
-	  public static final int RightStickYID = 5;
+    public static final int RightStickYID = 5;
 
   // For example to map the left and right motors, you could define the
   // following variables to use with your drivetrain subsystem.
